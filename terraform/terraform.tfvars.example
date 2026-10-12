@@ -1,0 +1,9 @@
+# Copy this file to terraform.tfvars and fill in real values.
+# terraform.tfvars is gitignored — never commit it.
+
+aws_region  = "us-east-1"
+bucket_name = "iam-lab-app-assets-change-me-12345" # must be globally unique
+
+# project_name          = "iam-lab"
+# create_demo_iam_user  = false
+# instance_type         = "t3.micro"
